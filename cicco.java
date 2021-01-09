@@ -2,4 +2,6 @@ hello
 jjjhj
 kkkk
 lllll
-ooooo
+oooo
+i am master
+added in developer
